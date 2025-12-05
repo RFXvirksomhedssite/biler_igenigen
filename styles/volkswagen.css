@@ -1,0 +1,28 @@
+/*************** Reset *********************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+/* --------------------------- */
+html {
+  background-color: #fdb8ff;
+  text-align: center;
+}
+h1 {
+  margin: 10px;
+}
+video {
+  display: block;
+  border: 10px solid #dd70e1;
+  border-radius: 10px;
+  width: 600px;
+  margin: auto;
+  box-shadow: 5px 5px 15px #520202;
+}
