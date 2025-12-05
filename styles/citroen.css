@@ -1,0 +1,16 @@
+body {
+  background-color: palevioletred;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+video {
+  width: 1000px;
+  border: 10px solid darkmagenta;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+}
